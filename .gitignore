@@ -80,3 +80,4 @@ venv/
 Thumbs.db
 .idea/
 .python-version
+_test.py
